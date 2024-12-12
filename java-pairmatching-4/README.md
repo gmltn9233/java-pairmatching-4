@@ -374,3 +374,11 @@ public class Crew {
 - **Git의 커밋 단위는 앞 단계에서 README.md 파일에 정리한 기능 목록 단위**로 추가한다.
     - [AngularJS Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) 참고해 commit log를 남긴다.
 - 과제 진행 및 제출 방법은 [프리코스 과제 제출 문서](https://github.com/woowacourse/woowacourse-docs/tree/master/precourse) 를 참고한다.
+
+
+## time
+- 14:50 ~
+
+- [] 같은 레벨 동안은 같은 페어를 만나지 않는다.
+- [] 페어 매칭 대상이 홀수인 경우 한 페어는 3인으로 구성한다.
+- 
