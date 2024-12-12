@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Map;
 import pairmatching.common.enums.Course;
 import pairmatching.common.enums.FilePath;
-import pairmatching.domain.Crew;
-import pairmatching.domain.Crews;
-import pairmatching.domain.Wooteco;
+import pairmatching.domain.wooteco.Crew;
+import pairmatching.domain.wooteco.Crews;
+import pairmatching.domain.wooteco.Wooteco;
 
 public class WootecoLoader {
     public Wooteco regisetWooteco(){
